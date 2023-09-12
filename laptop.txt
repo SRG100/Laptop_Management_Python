@@ -1,0 +1,6 @@
+Razer Blade, Razer, 2000,999, i7 7th Gen, GTX 3060
+Alienware, Alien, 1978,873, i5 9th Gen, GTX 3070
+Swift 7, Acer, 900,1000, i5 9th Gen, GTX 3070
+Macbook Pro 16, Apple, 3500,990, i5 9th Gen, GTX 3070
+Hp Pavillion, HP,1500,1100, i7 9th Gen, GTX 3070
+Victus 16,HP,1000,598,i7 7th Gen,GTX 3060
